@@ -1,6 +1,4 @@
 # MediaGrabber
-Simple React-Native app that makes it easy to find an awesome new iPhone background.
-
 Fetches and parses json data from 'http://unsplash.it/list,' then renders images that fit your screen.
 Great for finding a new iPhone background, or just browsing some stunning photography. 
 All photographers are credited.
